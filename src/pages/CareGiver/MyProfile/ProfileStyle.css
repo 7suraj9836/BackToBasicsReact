@@ -1,0 +1,21 @@
+.password-input-container {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.eye-icon-button {
+  position: absolute;
+  right: 10px; /* Adjust the value as needed */
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.eye-icon-button svg {
+    width: 16px;
+    height: 16px;
+    fill: transparent ; /* Use the button's text color */
+  }

@@ -1,0 +1,14 @@
+ul.MuiList-root.MuiList-padding {
+    margin-top: 30px;
+}
+.MuiInputBase-root.MuiInputBase-colorPrimary {
+    border: 1px solid rgba(36, 39, 49, 0.1);
+    border-radius: 30px;
+}
+li.MuiListItem-root.MuiListItem-gutters {
+    justify-content: flex-end;
+}
+.MuiListItemIcon-root {
+    display: flex;
+    align-items: center;
+}
